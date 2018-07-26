@@ -2,7 +2,7 @@ class  HelloWorld{
 
 void displayDate(){
 
-sysout("display today's date");
+sysout("display today's date:-");
 }
 
 public static void main(String[] args)
